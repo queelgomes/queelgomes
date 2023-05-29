@@ -9,4 +9,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queelgomes&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17&hide=contribs)
 
 
-![Snakeanimation](https://github.com/queelgomes/queelgomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/queelgomes/queelgomes/blob/output/github-contribution-grid-snake.svg)
