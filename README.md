@@ -33,4 +33,3 @@
   
 ##
   
-  ![Snake animation](https://github.com/queelgomes/queelgomes/blob/output/github-contribution-grid-snake.svg)
