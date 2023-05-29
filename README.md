@@ -1,4 +1,4 @@
-### Oiii, eu sou a Raquel, mas pode me chamar de Quel 
+### Oiii, eu sou a Raquel, mas pode me chamar de Quel!
 
 <br>
 
@@ -19,9 +19,10 @@
 ##
  
 <div>
+  <br>
   <a href="https://github.com/queelgomes" alt="GitHub Queel Gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queelgomes&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17&hide=contribs"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queelgomes&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=queelgomes&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17&hide=contribs"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queelgomes&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17"/>
   </a></div>
 <br>
    
