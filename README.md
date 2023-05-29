@@ -19,13 +19,11 @@
 ##
  
 <div>
-  <a href="" alt="">
+  <a href="https://github.com/queelgomes" alt="GitHub Queel Gomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queelgomes&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17&hide=contribs"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queelgomes&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&locale=pt-Br&border_radius=17"/>
-</div>
+  </a></div>
 <br>
-
-##
    
 <a href="https://instagram.com/queelgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F? style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:quel.4@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333? style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
